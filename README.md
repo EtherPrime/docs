@@ -1,2 +1,2 @@
-# docs
+# EtherPrime Docs
 
