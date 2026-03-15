@@ -41,8 +41,8 @@ Before beginning, make sure you have downloaded the necessary files:
 1. To start syncing with the network, add peers using the `admin.addPeer` command:
 
     ```javascript 
-	admin.addPeer("enode://dcbe7cdc198df841f01ff0e3c2d74cbe372eea8a8d47bac479d1a6799684713cab0de1c96e798c2f95d93c13f1b57c7e371389d64b97f4ccb984729585417088@209.74.95.181:30131")
-    admin.addPeer("enode://66c6358b0e372ddc48123c200cd82b5e59d3f65cd4b0342c2d1e58e59299466ef99ff7833169a68378f1758f49bc955a3c4e8031c383918e139b9b482cfb7b98@209.74.80.15:30131")
+	admin.addPeer("enode://34c8345bae6eb952d89a371b9eed3ac89f0fac724d05f004c3748da9efce28ac3c9d0ee7017fa96369268502447395b5d3cb4e25c8a4fd93b4cb8a50e9847353@209.74.95.181:30131")
+    admin.addPeer("enode://5625ff0b84cafefa95bcfbed897e75081b08e4a4c949f90f3caf29c50b4a69f03ad263f55f81b6b9909558a702876decb2d57dbb08950ccff980a7500011f6ed@209.74.80.15:30131")
     ```
 
    Adding these peers helps to connect your node with the network for synchronization.
